@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bac19a6-1611-4374-bd83-3f3d36d3668f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yuvasaro.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/gameplay/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/gameplay/Tournament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/AlwaysCooperateStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/AlwaysDefectStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/FriedmanStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/GenerousTitForTatStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/GraaskampStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/JossStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/RandomStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/SampleStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/TesterStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yuvasaro/strategies/TitForTatStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
