@@ -44,7 +44,9 @@ public class Tournament {
                 strategyScores.put(s2.getName(), strategyScores.get(s2.getName()) + s2Score);
             }
         }
+    }
 
+    public void printLeaderboard() {
         HashMap<String, Integer> leaderboard = sortByHighestPoints(strategyScores);
         System.out.println("===== LEADERBOARD =====");
         for (Map.Entry<String, Integer> strategyScore : leaderboard.entrySet()) {
